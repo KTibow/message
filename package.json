@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "vite-node ."
+  },
+  "devDependencies": {
+    "pbf-esm": "^4.0.1",
+    "vite-node": "^1.6.0"
+  }
+}
